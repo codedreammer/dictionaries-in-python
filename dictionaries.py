@@ -9,3 +9,11 @@ for key, value in info. items():
     print(f"the value corresponding to the key{key}"
  is{value})
     
+list = {
+    "bick": "honda",
+    "modal": "150cc",
+    "year": "2000"
+
+}
+print(list["modal"])
+
